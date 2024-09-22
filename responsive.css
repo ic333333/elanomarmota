@@ -1,0 +1,20 @@
+@media (min-width: 1900px) and (max-width: 2000px) {
+
+    header {
+        position: relative;
+        bottom: -120px;
+    }
+
+
+    h1 {
+        font-size: 100px;
+    }
+
+    
+    img {
+        position: relative;
+        bottom: -150px;
+        width: 500px;
+    }
+
+}
